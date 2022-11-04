@@ -5,7 +5,7 @@
 
  /**
   * @file CE103-HW2-Lib.c
-  * @author Haluk Kurtuluþ
+  * @author Haluk Kurtulus
   * @date 01 November 2022
   *
   * @brief <b> HW-2 Functions </b>
